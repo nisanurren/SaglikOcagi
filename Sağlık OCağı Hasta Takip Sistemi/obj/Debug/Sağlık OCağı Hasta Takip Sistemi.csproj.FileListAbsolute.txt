@@ -1,0 +1,36 @@
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\bin\Debug\Sağlık OCağı Hasta Takip Sistemi.exe.config
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\bin\Debug\Sağlık OCağı Hasta Takip Sistemi.exe
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\bin\Debug\Sağlık OCağı Hasta Takip Sistemi.pdb
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.Form1.resources
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.Properties.Resources.resources
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.exe
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.pdb
+C:\Users\nisa\source\repos\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.HastaProcess.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.polikliniktanıtma.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.kullanıcıtanıtma.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.kt.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.HastaBilgileri.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.Poliklinik.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.csprojAssemblyReference.cache
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.taburcusohats.resources
+C:\Users\nisa\source\repos\Sağlık Ocağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.DosyaBul.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\bin\Debug\Sağlık OCağı Hasta Takip Sistemi.exe.config
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\bin\Debug\Sağlık OCağı Hasta Takip Sistemi.exe
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\bin\Debug\Sağlık OCağı Hasta Takip Sistemi.pdb
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.csprojAssemblyReference.cache
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.DosyaBul.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.Form1.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.HastaBilgileri.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.HastaProcess.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.kt.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.kullanıcıtanıtma.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.Poliklinik.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.Properties.Resources.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.polikliniktanıtma.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık_OCağı_Hasta_Takip_Sistemi.taburcusohats.resources
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.exe
+C:\Users\nisa\Desktop\Sağlık OCağı Hasta Takip Sistemi\Sağlık OCağı Hasta Takip Sistemi\obj\Debug\Sağlık OCağı Hasta Takip Sistemi.pdb
